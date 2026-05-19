@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <windows.h>
 
-#define COLOR_RESET "\033[0m"
+#define COLOR_RESET "\033[0m" //afdsadsfsadfsaf
 
 #define FONT_BLACK 30
 #define FONT_WHITE 37
