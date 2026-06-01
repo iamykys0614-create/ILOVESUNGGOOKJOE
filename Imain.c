@@ -500,7 +500,7 @@ int main() {
                 print_center("교수님 연애 시뮬레이터 게임입니다.", get_console_height() / 2 + 1);
                 print_center("\033[31m호감도\033[0m 수치에 따라 다양한 엔딩으로 이어집니다.", get_console_height() / 2 + 3);
                 print_center("방향키(↑/↓)로 이동, Space/Enter로 선택하세요.", get_console_height() / 2 + 6);
-                print_center("(아무 키나 누르면 메인 메뉴로 돌아갑니다.)", get_console_height() / 2 + 8);
+                print_center("(아무 키나 누르면 메인 메뉴로 돌아갑니다.)", get_console_height() / 2 + 8);/22
                 _getch();
                 system("cls");
                 last_width = 0;
